@@ -279,10 +279,7 @@ margin:3px 0 10px 10px;
   margin-left:550px;
  }
 
-.SideBySide p{
- display:inline-block;
- vertical-align:top; /*縦方向の揃え位置を指定*/
-}
+
 /*************
 /* フッター
 *************/
