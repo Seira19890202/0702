@@ -285,7 +285,23 @@ margin:3px 0 10px 10px;
  display:inline-block;
  vertical-align:middle; /*縦方向の揃え位置を指定*/
 }
- 
+.box-text,
+.box-img{
+  display: inline-block;
+  vertical-align: middle;
+
+  
+}
+
+.box1 {
+  padding-left: 300px;
+}
+.box-text {
+
+}
+.SideBySide {
+  font-family: Baskerville
+} 
 
 /*************
 /* フッター
