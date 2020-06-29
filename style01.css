@@ -100,7 +100,7 @@ margin:10px 0 0;
 /* メイン画像（トップページ）
 **************************/
 #mainBanner{
-margin:0 auto;
+margin:left;
 padding:0;
 width:100%;
 line-height:0;
