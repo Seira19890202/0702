@@ -281,23 +281,11 @@ margin:3px 0 10px 10px;
 
 .SideBySide p{
 
-  background: url(main.jpg) no-repeat center top;
-  padding-top: 150px;
-  text-align: center;
-  background-attachment: relative;
-  background-position: center center;
-  min-height: 700px;
-  width: 100%;
-  color: white;
-  -webkit-background-size: 100%;
+  
+ display:inline-block;
+ vertical-align:top; /*縦方向の揃え位置を指定*/
+}
   -moz-background-size: 100%;
-  -o-background-size: 100%;
-  background-size: 100%;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-
 }
 
 
