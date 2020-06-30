@@ -293,6 +293,8 @@ display: inline-block;
 .box-img{
   display: inline-block;
   vertical-align: middle;
+  font-family:"Apple SD Gothic Neo";	
+  font-size:20px;		
 
   
 }
