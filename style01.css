@@ -282,9 +282,9 @@ margin:3px 0 10px 10px;
 .SideBySide p{
 display: inline-block;
   vertical-align: middle;
-	font-family:"Apple SD Gothic Neo";	
-font-size:20px;	
-}
+  font-family:"Apple SD Gothic Neo";	
+  font-size:20px;	
+   }
 
   
  /*縦方向の揃え位置を指定*/
@@ -300,8 +300,8 @@ font-size:20px;
 .box1 {
   padding-left: 300px;
  font-family:"Apple SD Gothic Neo";	
-font-size:20px;	
-}
+ font-size:20px;	
+  }
 
 .SideBySide {
 font-family:"Apple SD Gothic Neo";
