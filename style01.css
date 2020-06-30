@@ -280,6 +280,11 @@ margin:3px 0 10px 10px;
  }
 
 .SideBySide p{
+display: inline-block;
+  vertical-align: middle;
+	font-family:"Bradley Hand";	
+font-size:20px;	
+}
 
   
  display:inline-block;
